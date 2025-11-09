@@ -72,8 +72,16 @@ This is the toolkit I use to bring ideas to life, from data analysis to full-sca
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/> </a>
   <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/> </a>
 
+- **Developer Tools & Environments:**
+    
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/> </a>
+  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/> </a>
+  <a href="https://www.kaggle.com/notebooks" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/> </a>
+  
 <hr>
 
+  
 ### 📈 My GitHub Stats
 
 <!-- 
