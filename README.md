@@ -83,21 +83,13 @@ This is the toolkit I use to bring ideas to life, from data analysis to full-sca
 
 ### 📈 My GitHub Stats
 
-<!-- 
-  This is the Contribution Graph/Heatmap. It is highly reliable and accurately 
-  visualizes all your contributions (commits, PRs, issues) over the past year.
-  The dense green squares are powerful proof of your consistent hard work.
--->
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=munnurumahesh03-coder&theme=react-dark&hide_border=true&area=true" 
-    alt="Mahesh's Contribution Graph" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=munnurumahesh03-coder&theme=radical"
+    alt="Mahesh's GitHub Stats"
   />
 </p>
 
-<!-- 
-  This card shows your most used languages. It is also very reliable.
--->
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=munnurumahesh03-coder&layout=compact&theme=radical" 
@@ -105,9 +97,14 @@ This is the toolkit I use to bring ideas to life, from data analysis to full-sca
   />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=munnurumahesh03-coder&theme=react-dark&hide_border=true&area=true" 
+    alt="Mahesh's Contribution Graph" 
+  />
+</p>
+
 <hr>
-
-
 
 
 ### 📫 How to Reach Me
