@@ -81,33 +81,22 @@ This is the toolkit I use to bring ideas to life, from data analysis to full-sca
   
 <hr>
 
-  
 ### 📈 My GitHub Stats
 
 <!-- 
-  - The `count_private=true` parameter is added to include all your private contributions in the stats.
-  - The `cache_seconds=3600` parameter tells the server to refresh the stats at least once per hour.
+  This is the Contribution Graph/Heatmap. It is highly reliable and accurately 
+  visualizes all your contributions (commits, PRs, issues) over the past year.
+  The dense green squares are powerful proof of your consistent hard work.
 -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=munnurumahesh03-coder&show_icons=true&theme=radical&rank_icon=github&count_private=true&cache_seconds=3600" 
-    alt="Mahesh's GitHub Stats" 
-  />
-</p>
-
-<!-- 
-  - This is the activity graph, which provides a more accurate visual representation of your work on all branches.
-  - It's a great way to show your consistency and dedication.
--->
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=munnurumahesh03-coder&theme=radical&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=munnurumahesh03-coder&theme=react-dark&hide_border=true&area=true" 
     alt="Mahesh's Contribution Graph" 
   />
 </p>
 
 <!-- 
-  - This card shows your most used languages.
+  This card shows your most used languages. It is also very reliable.
 -->
 <p align="center">
   <img 
@@ -117,6 +106,7 @@ This is the toolkit I use to bring ideas to life, from data analysis to full-sca
 </p>
 
 <hr>
+
 
 
 
