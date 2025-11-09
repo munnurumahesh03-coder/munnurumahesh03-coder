@@ -1,0 +1,25 @@
+# .github/workflows/metrics.yml
+name: Metrics
+on:
+  # Schedule updates every day at midnight
+  schedule: [{cron: "0 0 * * *"}]
+  # Allows to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  # Also run on every push to the main branch
+  push: {branches: ["main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: munnurumahesh03-coder
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          config_output: svg
+          filename: metrics.svg
