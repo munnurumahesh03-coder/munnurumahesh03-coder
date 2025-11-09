@@ -65,7 +65,8 @@ This is the toolkit I use to bring ideas to life.
 
 ### 📫 How to Reach Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile )
-- 📧 **Email:** [your.email@domain.com](mailto:your.email@domain.com)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/mahesh-kumar-5876a034a )
+- 📧 **Email:** [munnurmahesh03@gmail.com](mailto:munnurmahesh03@gmail.com)
+
 
 
